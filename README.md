@@ -62,7 +62,8 @@ Restaurant Manager for a large successful restaurant in the heart of Shoreditch.
 
 ## <a name="interests">Interests</a>
 
-```def what_i_like(list)
+```
+def what_i_like(list)
  list.each do |like|
   if like == inappropriate
    puts "I like Ruby"
