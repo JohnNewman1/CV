@@ -1,14 +1,16 @@
 ## John Newman
 
- [Education and Projects](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Email](mailto:newmanj903@gmail.com)
+ [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Email](mailto:newmanj903@gmail.com)
 
-I'm a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. I'm looking for a role which will challenge me and help me gain expertise in the industry so i can work towards a more senior/leadership role. 
+I am a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. What made me want to become a developer was starting a small business with my friend. With no experience i took on the role as developer to successfully create over 15 shop designs and templates for eBay using HTML5 and CSS3. This began my love for coding and i soon realise the potential of acquiring the correct skills due to previous customers asking for requirements and extra work that i was not able to fufill before. This is why I took a 3 month course @ Makers Academy.
+
+I am looking for a role which will challenge me and help me gain expertise in the industry so i can work towards a more senior/leadership role. 
 
 ## <a name="skills">Skills</a>
 
 #### Problem Solving 
 
-Problem Solving has been a huge part of my success as it has been essential in the fast pace industry i have worked in. Managing a Restaurant comes with daily problems that are unexpected and unpredictable. The reason i have been successful in this industry is due to being able to think quickly on my feet without panicing, wether it be dealing with a upset customer, POS systems breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill 
+Problem Solving has been a huge part of my success as it has been essential in the fast pace industry i have worked in. Managing a Restaurant comes with daily problems that are unexpected and unpredictable. The reason i have been successful in this industry is due to being able to think quickly on my feet without panicing, wether it be dealing with a upset customer, POS systems breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill in my role as a developer as problem solving is the name of the game.
 
 - Primary point of contact for conflict resolution via phone, e-mail and in person
 - Critical thinking in highly stressful situations
@@ -16,17 +18,16 @@ Problem Solving has been a huge part of my success as it has been essential in t
 
 #### Leadership and Communication
 
-I take pride in my people skills and have gained over ten years experience in managing and mentoring people. I have learnt to treat all people with respect and to have a very positive attitude regardless of how i feel, when you are responsible for a team they mimic your attitude and leadership is all about showing people the way through training and support. I intend to bring these skills into a development role by helping and motivating my team in times of stress.  
+I take pride in my people skills and have gained over ten years experience in managing and mentoring people. I have learnt to treat all people with respect and to have a very positive attitude regardless of how i feel. When you are responsible for a team they mimic your attitude and leadership is all about showing people the way through training and support. I intend to bring these skills into a development role by helping and motivating my team in times of stress.  
 
-- Two
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Training and development of lower and senior staff
+- Taking unmotivated teams and improving them to be motivated and working to a high standard
+- Great understanding of all roles in a business
+- Public speaking 
 
 ## <a name="educatuion">Education</a> 
 
 #### Makers Academy (April 2017 to June 2017)
-
 
 A 16-week intensive development bootcamp, emphasizing:
 
@@ -47,9 +48,27 @@ A 16-week intensive development bootcamp, emphasizing:
 ## <a name="experience">Experience</a>
 
 **General Manager | Wildwood** (August 2016 to May 2018)    
-*Your job title* 
+Directed the daily operations of the restaurant; with focus on building sales, directing the team to exceed product quality and preparation standards, excellent customer relations, inventory management, in addition to maintaining team staffing levels, and financial accountability
 
 **Restaurant Manager | Dishoom Shoreditch** (September 2012 to August 2015)   
 Restaurant Manager for a large successful restaurant in the heart of Shoreditch. My responsibilities included running a large team of over 30 employees, Project Managing and maintenance management of the business. 
 
 ## <a name="interests">Interests</a>
+
+def what_i_like(list)
+ list.each do |like|
+  if like == inappropriate
+   puts "I like Ruby"
+  else
+   puts "I like #{like}" 
+  end
+ end
+end
+
+what_i_like(["Music", "Computer Gaming", "Movies", "Football", "Beer"])
+
+I like Music
+I like Computer Gaming
+I like Movies
+I like Football
+I like Ruby
