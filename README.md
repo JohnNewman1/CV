@@ -1,8 +1,8 @@
 ## John Newman
 
- [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Email](mailto:newmanj903@gmail.com)
+ [Education](#education) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Email](mailto:newmanj903@gmail.com)
 
-I am a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. What made me want to become a developer was starting a small business with my friend. With no experience i took on the role as developer to successfully create over 15 shop designs and templates for eBay using HTML5 and CSS3. This began my love for coding and i soon realise the potential of acquiring the correct skills due to previous customers asking for requirements and extra work that i was not able to fufill before. This is why I took a 3 month course @ Makers Academy.
+I am a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. What made me want to become a developer was starting a small business with my friend. With no experience i took on the role as developer to successfully create over fifteen shop designs and templates for eBay using HTML5 and CSS3. This began my love for coding and i soon realised the potential of acquiring the correct skills due to previous customers asking for requirements and extra work that i was not able to fulfil. This is why I took a 3 month course @ Makers Academy.
 
 I am looking for a role which will challenge me and help me gain expertise in the industry so i can work towards a more senior/leadership role. 
 
@@ -10,7 +10,7 @@ I am looking for a role which will challenge me and help me gain expertise in th
 
 #### Problem Solving 
 
-Problem Solving has been a huge part of my success as it has been essential in the fast pace industry i have worked in. Managing a Restaurant comes with daily problems that are unexpected and unpredictable. The reason i have been successful in this industry is due to being able to think quickly on my feet without panicing, wether it be dealing with a upset customer, POS systems breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill in my role as a developer as problem solving is the name of the game.
+Problem Solving has been a huge part of my success as it has been essential in the fast pace industry i have worked in. Managing a Restaurant comes with daily problems that are unexpected and unpredictable. The reason i have been successful in this industry is due to being able to think quickly on my feet without panicking, wether it be dealing with a upset customer, POS system breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill in my role as a developer as problem solving is the name of the game.
 
 - Primary point of contact for conflict resolution via phone, e-mail and in person
 - Critical thinking in highly stressful situations
@@ -24,6 +24,13 @@ I take pride in my people skills and have gained over ten years experience in ma
 - Taking unmotivated teams and improving them to be motivated and working to a high standard
 - Great understanding of all roles in a business
 - Public speaking 
+
+#### Patience
+
+I am a very patient person, i understand that knowledge and hard work leads to success. Sometimes in my career i did not get the promotion i wanted or something did not go my way, however by being patient and working hard i got to where i wanted to be. Patience should help me as development can be frustrating at times and being persistent with projects will evidently lead to success.
+
+## <a name="projects">Projects</a> 
+
 
 ## <a name="educatuion">Education</a> 
 
@@ -39,7 +46,7 @@ A 16-week intensive development bootcamp, emphasizing:
 
 #### University of Kent (2009 to 2010)
 
-- Mathematics 
+- Mathematics
 
 #### Campion School (2002-2009)
 
@@ -55,7 +62,7 @@ Restaurant Manager for a large successful restaurant in the heart of Shoreditch.
 
 ## <a name="interests">Interests</a>
 
-def what_i_like(list)
+```def what_i_like(list)
  list.each do |like|
   if like == inappropriate
    puts "I like Ruby"
@@ -66,9 +73,10 @@ def what_i_like(list)
 end
 
 what_i_like(["Music", "Computer Gaming", "Movies", "Football", "Beer"])
+```
 
-I like Music
-I like Computer Gaming
-I like Movies
-I like Football
-I like Ruby
+I like Music   
+I like Computer Gaming   
+I like Movies  
+I like Football   
+I like Ruby   
