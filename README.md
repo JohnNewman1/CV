@@ -1,50 +1,55 @@
-## Your Name
+## John Newman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+ [Education and Projects](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Email](mailto:newmanj903@gmail.com)
 
-## Skills
+I'm a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. I'm looking for a role which will challenge me and help me gain expertise in the industry so i can work towards a more senior/leadership role. 
 
-#### This Skill
+## <a name="skills">Skills</a>
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Problem Solving 
 
-- Experience
-- Achievements
-- Evidence
+Problem Solving has been a huge part of my success as it has been essential in the fast pace industry i have worked in. Managing a Restaurant comes with daily problems that are unexpected and unpredictable. The reason i have been successful in this industry is due to being able to think quickly on my feet without panicing, wether it be dealing with a upset customer, POS systems breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill 
 
-#### Another Skill
+- Primary point of contact for conflict resolution via phone, e-mail and in person
+- Critical thinking in highly stressful situations
+- POS system and Networking problem diagnosis and solution
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Leadership and Communication
 
-- I achieved A during my work at B (job, or otherwise)
+I take pride in my people skills and have gained over ten years experience in managing and mentoring people. I have learnt to treat all people with respect and to have a very positive attitude regardless of how i feel, when you are responsible for a team they mimic your attitude and leadership is all about showing people the way through training and support. I intend to bring these skills into a development role by helping and motivating my team in times of stress.  
+
+- Two
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## <a name="educatuion">Education</a> 
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017 to June 2017)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+A 16-week intensive development bootcamp, emphasizing:
 
-#### Your University / College (start_date to end_date)
+-Pair-programming
+-Test Driven Development
+-Object Oriented Design
+-Agile
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### University of Kent (2009 to 2010)
 
-## Experience
+- Mathematics 
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Campion School (2002-2009)
+
+-3 A Levels; Mathematics, Business Studies, History (AAB)
+
+## <a name="experience">Experience</a>
+
+**General Manager | Wildwood** (August 2016 to May 2018)    
+*Your job title* 
+
+**Restaurant Manager | Dishoom Shoreditch** (September 2012 to August 2015)   
+Restaurant Manager for a large successful restaurant in the heart of Shoreditch. My responsibilities included running a large team of over 30 employees, Project Managing and maintenance management of the business. 
+
+## <a name="interests">Interests</a>
