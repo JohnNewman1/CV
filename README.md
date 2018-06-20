@@ -2,15 +2,25 @@
 
  [Education](#education) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Email](mailto:newmanj903@gmail.com)
 
-I am a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. What made me want to become a developer was starting a small business with my friend. With no experience i took on the role as developer to successfully create over fifteen shop designs and templates for eBay using HTML5 and CSS3. This was the start of my love for coding. When working with previous customers I realised that I needed to improve my knowledge so that i could tackle more advanced projects. This is why I took a 3 month course @ Makers Academy.
+I am a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. What made me want to become a developer was starting a small business with my friend. With no experience I took on the role as developer to successfully create over fifteen shop designs and templates for eBay using HTML5 and CSS3. This was the start of my love for coding. When working with previous customers I realised that I needed to improve my knowledge so that i could tackle more advanced projects. This is why I took a 3 month course @ Makers Academy.
 
 I am looking for a role which will challenge me and help me gain expertise in the industry so i can work towards a more senior/leadership role. 
+
+## <a name="projects">Projects</a> 
+
+| Project           | Description | Technologies |
+|---                |---          |---           |
+| Example | A brief description | Express, Node.js |  
+| [Bank Tech Test](https://github.com/JohnNewman1/bank_tech_test)  | A simple console app showing test driven development and best practises with Object Orientated Programming  |  JavaScript (vanilla), Jasmine  |
+| Example | A brief description | Technologies |  
+| Example | A brief description | Technologies |  
+| Example | A brief description | Technologies |  
 
 ## <a name="skills">Skills</a>
 
 #### Problem Solving 
 
-Problem Solving has been a huge part of my success as it has been essential in the fast pace industry i have worked in. Managing a Restaurant comes with daily problems that are unexpected and unpredictable. The reason i have been successful in this industry is due to being able to think quickly on my feet without panicking, whether it be dealing with an upset customer, POS system breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill in my role as a developer as problem solving is the name of the game.
+Problem Solving has been a huge part of my success as it has been essential in the fast pace industry I have worked in. Managing a Restaurant comes with daily problems that are unexpected and unpredictable. The reason I have been successful in this industry is due to being able to think quickly on my feet without panicking, whether it be dealing with an upset customer, POS system breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill in my role as a developer as problem solving is the name of the game.
 
 - Primary point of contact for conflict resolution via phone, e-mail or in person
 - Critical thinking in highly stressful situations
@@ -27,10 +37,7 @@ I take pride in my people skills which I have gained over ten years experience i
 
 #### Patience
 
-I am a very patient person, i understand that knowledge and hard work leads to success. Sometimes in my career i did not get the promotion i wanted or something did not go my way, however by being patient and working hard i got to where i wanted to be. Patience should help me as development can be frustrating at times and being persistent with projects will eventually lead to success.
-
-## <a name="projects">Projects</a> 
-
+I am a very patient person, I understand that knowledge and hard work leads to success. Sometimes in my career I did not get the promotion i wanted or something did not go my way, however by being patient and working hard I got to where I wanted to be. Patience should help me as development can be frustrating at times and being persistent with projects will eventually lead to success.
 
 ## <a name="educatuion">Education</a> 
 
@@ -38,10 +45,23 @@ I am a very patient person, i understand that knowledge and hard work leads to s
 
 A 16-week intensive development bootcamp, emphasizing:
 
--Pair-programming
--Test Driven Development
--Object Oriented Design
--Agile
+- Pair-programming
+-- Driver, Navigator
+-- Team-building and communication
+
+
+
+- Test Driven Development
+-- Unit, Integration and feature testing 
+
+- Object Oriented Design
+-- Single Responsibiilty Principle 
+-- Delegation
+
+- Agile Development
+-- Stand Ups
+-- Retros
+-- kanban
 
 
 #### University of Kent (2009 to 2010)
@@ -62,22 +82,3 @@ Restaurant Manager for a large successful restaurant in the heart of Shoreditch.
 
 ## <a name="interests">Interests</a>
 
-```
-def what_i_like(list)
- list.each do |like|
-  if like == inappropriate
-   puts "I like Ruby"
-  else
-   puts "I like #{like}" 
-  end
- end
-end
-
-what_i_like(["Music", "Computer Gaming", "Movies", "Football", "Beer"])
-```
-
-I like Music   
-I like Computer Gaming   
-I like Movies  
-I like Football   
-I like Ruby   
