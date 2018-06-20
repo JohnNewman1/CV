@@ -46,22 +46,22 @@ I am a very patient person, I understand that knowledge and hard work leads to s
 A 16-week intensive development bootcamp, emphasizing:
 
 - Pair-programming
-⋅⋅* Driver, Navigator
-⋅⋅* Team-building and communication
+   - Driver, Navigator
+   - Team-building and communication
 
 
 
 - Test Driven Development
-⋅⋅* Unit, Integration and feature testing 
+   - Unit, Integration and feature testing 
 
 - Object Oriented Design
-⋅⋅* Single Responsibiilty Principle 
-⋅⋅* Delegation
+   - Single Responsibiilty Principle 
+   - Delegation
 
 - Agile Development
-⋅⋅* Stand Ups
-⋅⋅* Retros
-⋅⋅* kanban
+  - Stand Ups
+  - Retros
+  - kanban
 
 
 #### University of Kent (2009 to 2010)
