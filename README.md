@@ -1,6 +1,6 @@
 ## John Newman
 
- [Education](#education) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Email](mailto:newmanj903@gmail.com)
+ [Education](#education) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Email](mailto:newmanj903@gmail.com)
 
 I am a former Restaurant General Manager who is looking to kickstart my career in development. I am a natural leader, quick thinking problem solver and very calm and controlled in my work.I have had a passion for tech all my life. What made me want to become a developer was starting a small business with my friend. With no experience I took on the role as developer to successfully create over fifteen shop designs and templates for eBay using HTML5 and CSS3. This was the start of my love for coding. When working with previous customers I realised that I needed to improve my knowledge so that i could tackle more advanced projects. This is why I took a 3 month course @ Makers Academy.
 
@@ -10,11 +10,11 @@ I am looking for a role which will challenge me and help me gain expertise in th
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
-| Example | A brief description | Express, Node.js |  
+| [Final Project] | A brief description | Node.js, React.js |  
 | [Bank Tech Test](https://github.com/JohnNewman1/bank_tech_test)  | A simple console app showing test driven development and best practises with Object Orientated Programming  |  JavaScript (vanilla), Jasmine  |
-| Example | A brief description | Technologies |  
-| Example | A brief description | Technologies |  
-| Example | A brief description | Technologies |  
+| [Gilded Rose](https://github.com/JohnNewman1/GildedRoseTake2) | Strategy Pattern design of the Gilded Rose Kata | Node.js, Javascript, Jasmine  |  
+| [AceBook](https://github.com/JohnNewman1/acebook-millieandco) | Project to replicate Facebook | Java, Spring Boot, React.js  |  
+| [Rock, Paper, Scissors](https://github.com/JohnNewman1/rps-challenge) | Implementation of Rock, Paper, Scissors with AI and multiplayer | Ruby, Jquery, Rspec |  
 
 ## <a name="skills">Skills</a>
 
@@ -79,6 +79,3 @@ Directed the daily operations of the restaurant; with focus on building sales, d
 
 **Restaurant Manager | Dishoom Shoreditch** (September 2012 to August 2015)   
 Restaurant Manager for a large successful restaurant in the heart of Shoreditch. My responsibilities included running a large team of over 30 employees, Project Managing and maintenance management of the business. 
-
-## <a name="interests">Interests</a>
-
