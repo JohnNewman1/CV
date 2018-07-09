@@ -1,6 +1,6 @@
 ## John Newman
 
- [Education](#education) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Email](mailto:newmanj903@gmail.com) | [Contact Details](#contact)
+[Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Contact Details](#contact)
 
 Former Restaurant General Manager following my dream to become a software developer. I am looking for a role which will challenge me and help me gain expertise in the industry so that I can work towards a more senior/leadership role.
 
@@ -20,7 +20,7 @@ I have had a passion for tech all my life. What made me want to become a softwar
 
 #### Problem Solving
 
-Problem solving has been a huge part of my success as it has been essential in the fast paced industry I have worked in. Managing a restaurant comes with daily problems that are unexpected and unpredictable. The reason I have been successful in this industry is due to being able to think quickly on my feet without panicking, whether it was dealing with an upset customer, the POS system breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill in my role as a software developer as problem solving is the name of the game.
+Problem solving has been a huge part of my success as it has been essential in the fast paced industry I have worked in. Managing a restaurant comes with daily problems that are unexpected and unpredictable. The reason I have been successful in this industry is due to being able to think quickly on my feet without panicking, whether it was dealing with an upset customer, the POS system breaking down or food deliveries not being delivered on the busiest weekend of the year. I believe this will be a key skill in my role as a software developer.
 
 - Primary point of contact for conflict resolution via phone, e-mail or in person
 - Critical thinking in highly stressful situations
@@ -28,14 +28,17 @@ Problem solving has been a huge part of my success as it has been essential in t
 
 #### Leadership and Communication
 
-I take pride in my people skills, which I have gained during ten years of managing and mentoring people. I have learnt to treat all people with respect and to maintain a very positive attitude regardless of how I feel. I intend to bring these skills into a development role by helping and motivating my team in times of stress.  
+I take pride in my people skills, which I have gained during ten years of managing and mentoring people. I have learnt to treat all people with respect and to maintain a very positive attitude. I intend to bring these skills into a development role by helping and motivating my team in times of stress.  
 
 - Training and development of lower and senior staff
-- Working with unmotivated teams and improving them to be motivated and working to a higher standard
 - Great understanding of all roles in a business
 - Public speaking
 
-## <a name="educatuion">Education</a>
+#### Ability to Learn
+
+I am adaptable and flexible, I do not get easily frustrated, and grasp new concepts and assignments quickly. I have proven this through learning 3 new programming languages with their testing framework counterparts in 16 weeks. I enjoy taken on new challenges and understand my own weaknesses and what I need to do to improve them.
+
+## <a name="education">Education</a>
 
 #### Makers Academy (April 2017 to July 2017)
 
@@ -60,14 +63,13 @@ A 16-week intensive development bootcamp, emphasizing:
 - Languages
   - JavaScript - Jest with Enzyme, Jasmine, Nightwatch
   - Ruby - Rspec, Capybara
-  - Java - Junit, Mockito
+  - Java - JUnit, Mockito
   - CSS
 
 - Frameworks
   - NodeJs
   - ReactJs
   - Express
-  -
 
 #### University of Kent (2009 to 2010)
 
@@ -87,5 +89,7 @@ Restaurant Manager for a large successful restaurant in the heart of Shoreditch.
 
 ## <a name="contact">Contact Details</a>
 Email: newmanj903@gmail.com
+
 Mobile: 07756355816
+
 Git hub: [@JohnNewman1](https://github.com/JohnNewman1)
