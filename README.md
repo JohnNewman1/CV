@@ -88,8 +88,6 @@ Directed the daily operations of the restaurant; with focus on building sales, d
 Restaurant Manager for a large successful restaurant in the heart of Shoreditch. My responsibilities included running a large team of over 30 employees, Project Managing and maintenance management of the business.
 
 ## <a name="contact">Contact Details</a>
-Email: newmanj903@gmail.com
-
-Mobile: 07756355816
-
+Email: newmanj903@gmail.com  
+Mobile: 07756355816  
 Git hub: [@JohnNewman1](https://github.com/JohnNewman1)
