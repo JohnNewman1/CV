@@ -8,13 +8,13 @@ I have had a passion for tech all my life. What made me want to become a softwar
 
 ## <a name="projects">Projects</a>
 
-| Project           | Description | Technologies |
-|---                |---          |---           |
-| [Final Project](https://github.com/charmalt/final-project-main) | A project which replicates the basic functionality of an email service | Node.js, React.js, Jest |  
-| [Bank Tech Test](https://github.com/JohnNewman1/bank_tech_test)  | A simple console app showing test driven development and best practises with Object Oriented Programming  |  JavaScript (vanilla), Jasmine  |
-| [Gilded Rose](https://github.com/JohnNewman1/GildedRoseTake2) | Strategy Pattern design of the Gilded Rose Kata | Node.js, Javascript, Jasmine  |  
-| [AceBook](https://github.com/JohnNewman1/acebook-millieandco) | A Project to create an application that replicates Facebook | Java, Spring Boot, React.js  |  
-| [Rock, Paper, Scissors](https://github.com/JohnNewman1/rps-challenge) | Implementation of Rock, Paper, Scissors with AI and multiplayer | Ruby, Jquery, Rspec |  
+| Project           | Description | Timeframe | Technologies |
+|---                |---          |---           |---         |
+| [Retro Mail](https://github.com/charmalt/final-project-main) | A project which replicates the basic functionality of an email service | 10 days | Node.js, React.js, Jest |  
+| [Bank Tech Test](https://github.com/JohnNewman1/bank_tech_test)  | A simple console app showing test driven development and best practises with Object Oriented Programming  | 2 days |  JavaScript (vanilla), Jasmine  |
+| [Gilded Rose](https://github.com/JohnNewman1/GildedRoseTake2) | Strategy Pattern design of the Gilded Rose Kata | 2 days | Node.js, Javascript, Jasmine  |  
+| [AceBook](https://github.com/JohnNewman1/acebook-millieandco) | A Project to create an application that replicates Facebook | 10 days | Java, Spring Boot, React.js  |  
+| [Rock, Paper, Scissors](https://github.com/JohnNewman1/rps-challenge) | Implementation of Rock, Paper, Scissors with AI and multiplayer | 2 days | Ruby, Jquery, Rspec |  
 
 ## <a name="skills">Skills</a>
 
@@ -36,7 +36,7 @@ I take pride in my people skills, which I have gained during ten years of managi
 
 #### Ability to Learn
 
-I am adaptable and flexible, I do not get easily frustrated, and grasp new concepts and assignments quickly. I have proven this through learning 3 new programming languages with their testing framework counterparts in 16 weeks. I enjoy taken on new challenges and understand my own weaknesses and what I need to do to improve them.
+I am adaptable and flexible, I do not get easily frustrated, and grasp new concepts and assignments quickly. I have proven this through learning 3 new programming languages with their testing framework counterparts in 16 weeks. I enjoy taking on new challenges and understand my own weaknesses and what I need to do to improve them.
 
 ## <a name="education">Education</a>
 
@@ -90,4 +90,4 @@ Restaurant Manager for a large successful restaurant in the heart of Shoreditch.
 ## <a name="contact">Contact Details</a>
 Email: newmanj903@gmail.com  
 Mobile: 07756355816  
-Git hub: [@JohnNewman1](https://github.com/JohnNewman1)
+LinkedIn : [John Newman](https://www.linkedin.com/in/johnnewman12/)
