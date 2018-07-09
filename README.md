@@ -15,6 +15,7 @@ I have had a passion for tech all my life. What made me want to become a softwar
 | [Gilded Rose](https://github.com/JohnNewman1/GildedRoseTake2) | Strategy Pattern design of the Gilded Rose Kata | 2 days | Node.js, Javascript, Jasmine  |  
 | [AceBook](https://github.com/JohnNewman1/acebook-millieandco) | A Project to create an application that replicates Facebook | 10 days | Java, Spring Boot, React.js  |  
 | [Rock, Paper, Scissors](https://github.com/JohnNewman1/rps-challenge) | Implementation of Rock, Paper, Scissors with AI and multiplayer | 2 days | Ruby, Jquery, Rspec |  
+| [Front End Portfolio](http://www.pandaandpaul.com)   | 5 front end designs made for eBay businesses | N/A  | HTML, CSS |
 
 ## <a name="skills">Skills</a>
 
